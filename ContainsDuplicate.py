@@ -1,3 +1,5 @@
+# Time complexity of O(N)
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
       li = set()
