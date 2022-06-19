@@ -12,3 +12,4 @@ Solutions to select Leetcode challenges written in python
 - [Same Tree](https://leetcode.com/problems/same-tree)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [Merge Two Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions)
