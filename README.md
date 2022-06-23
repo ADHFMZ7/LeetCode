@@ -16,5 +16,6 @@ Solutions to select Leetcode challenges written in python
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) TODO: FIND FASTER SOLUTION
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
-- [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array/)
-- [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+- [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array)
+- [Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
+- [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
