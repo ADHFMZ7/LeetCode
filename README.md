@@ -15,4 +15,5 @@ Solutions to select Leetcode challenges written in python
 - [Merge Two Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) TODO: FIND FASTER SOLUTION
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+-[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+-[Running Sum](https://leetcode.com/problems/running-sum-of-1d-array/)
