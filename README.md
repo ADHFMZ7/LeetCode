@@ -22,3 +22,4 @@ Solutions to select Leetcode challenges written in python
 - [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 - [Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
