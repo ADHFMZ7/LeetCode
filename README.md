@@ -23,3 +23,4 @@ Solutions to select Leetcode challenges written in python
 - [Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
