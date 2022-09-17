@@ -25,3 +25,4 @@ Solutions to select Leetcode challenges written in python
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 - [Reorder List](https://leetcode.com/problems/reorder-list)
+- [Rotate Image](https://leetcode.com/problems/rotate-image)
