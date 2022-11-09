@@ -30,3 +30,4 @@ Solutions to select Leetcode challenges written in python
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
+- [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)
