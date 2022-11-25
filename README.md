@@ -32,3 +32,4 @@ Solutions to select Leetcode challenges written in python
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
+- [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)

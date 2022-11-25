@@ -1,5 +1,5 @@
 class Solution:
-    def numPairsDivisibleBy60(self, time: List[int]) -> int:
+    def numPairsDivisibleBy60(self, time: list[int]) -> int:
         d = [0]*60
         result = 0
         for i in time:
