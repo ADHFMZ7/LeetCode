@@ -34,3 +34,4 @@ Solutions to select Leetcode challenges written in python
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands)
+- [Jump Game](https://leetcode.com/problems/jump-game)
